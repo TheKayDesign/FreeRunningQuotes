@@ -1,4 +1,4 @@
-﻿// JavaScript Document
+// JavaScript Document
 
 	function ConfirmExit() {
 		document.getElementById("Outer2").style.display = "block"
@@ -48,7 +48,7 @@ var day = Math.floor(diff / oneDay);
 var car=[];
 car[0]="\"The idea that you can’t lose contact with the leaders has cut more throats than it has saved.\"<br><br><div class=\"SigText\">- Arthur Lydiard</div>";
 car[1]="Happy New Year! Now get off that couch and get outside running to work off all that festive excess!";
-car[2]="\"The decathlon is nine Mickey Mouse events and the 1500 metres.\"<br><br><div class=\"SigText\">- Steve Ovett/div>";
+car[2]="\"The decathlon is nine Mickey Mouse events and the 1500 metres.\"<br><br><div class=\"SigText\">- Steve Ovett</div>";
 car[3]="Joke quote:<br><br>\"Running is great, cause you forget all your problems because you’re too busy focusing on one problem, and that’s that your whole body hurts.\"";
 car[4]="\"When using the run-walk method to finish a marathon, the most important walk break comes in the first mile. The second most important one comes in the second mile, and so on. The point is, walk before you become fatigued.\"<br><br><div class=\"SigText\">- Jeff Galloway</div>";
 car[5]="Life is better when you’re running.";
@@ -75,7 +75,7 @@ car[25]="\"Get off the couch to get back in the game.\"<br><br><div class=\"SigT
 car[26]="\"Worrying gets you nowhere. if you turn up worrying about how you’re going to perform, you’ve already lost. Train hard, turn up, run your best and the rest will take care of itself.\"<br><br><div class=\"SigText\">- Usain Bolt</div>";
 car[27]="\"He was onto something. Something huge. It wasn’t just how to run; it was how to live, the essence of who we are as a species and what we’re meant to be.\"<div class=\"SigText\">- Christopher McDougall</div>";
 car[28]="\"If you put down a good solid foundation, you can then build one room after another and pretty soon you have a house. After your base mileage, add hills, pace work, speedwork, and finally race strategy.\"<br><br><div class=\"SigText\">- Rod Dixon, New Zealand Olympian and 1983 New York City Marathon champ</div>";
-car[29]="\"Feather-light racing flats might help you run a faster 5-K, but lightweight performance trainers (with better protection and cushioning) are a better choice for most runners, especially in longer races.\"<br><br><div class=\"SigText\">- Bob Wischnia and Paul Carrozza, Runner’s World shoe experts</div>";
+car[29]="\"Feather-light racing flats might help you run a faster 5k, but lightweight performance trainers (with better protection and cushioning) are a better choice for most runners, especially in longer races.\"<br><br><div class=\"SigText\">- Bob Wischnia and Paul Carrozza, Runner’s World shoe experts</div>";
 car[30]="\"If you feel like eating, eat. Let your body tell you what it wants.\"<br><br><div class=\"SigText\">- Joan Samuelson, 1984 Olympic marathon champion</div>";
 car[31]="Runners logic: I’m tired, I think I’ll go for a run.";
 car[32]="\"Somebody may beat me, but they are going to have to bleed to do it.\"<br><br><div class=\"SigText\">- Steve Prefontaine</div>";
@@ -83,7 +83,7 @@ car[33]="\"A 40-minute run punctuated with a half-dozen 30-second pace pickups (
 car[34]="Beginners Tip: Get good (non-cotton) socks. Cotton socks soak up and hang on to moisture, socks made from a synthetic material will wick moisture away from your feet and control temperature well, which means a much less swampy run.";
 car[35]="Joke:<br><br>My therapist told me I have to quit running and drinking, I laughed and told her, \"Maybe you’re the crazy one.\"";
 car[36]="\"As we run, we become.\"<br><br><div class=\"SigText\">- Amby Burfoot</div>";
-car[37]="\"Running is real and relatively simp... but it ain’t easy.\"<br><br><div class=\"SigText\">- Mark Will-Weber</div>";
+car[37]="\"Running is real and relatively simple... but it ain’t easy.\"<br><br><div class=\"SigText\">- Mark Will-Weber</div>";
 car[38]="\"You must listen to your body. Run through annoyance, but not through pain.\"<br><br><div class=\"SigText\">- Dr. George Sheehan</div>";
 car[39]="\"Hydrate. Hydrate. Hydrate! In cold weather and warm. We use water to sweat, lubricate joints, tendons, and ligaments, and to carry blood efficiently to major organs. I work all day at hydrating.\"<br><br><div class=\"SigText\">- Dr. Alex Ratelle, former masters running great</div>";
 car[40]="\"Once you find a warmup routine that works, repeat it as habitually as possible.\"<br><br><div class=\"SigText\">- Ted Corbitt</div>";
@@ -94,14 +94,14 @@ car[44]="Studies have shown that muscles are most receptive to rebuilding glycog
 car[45]="\"Don’t attack a hill from the very bottom - it’s bigger than you are!\"<br><br><div class=\"SigText\">- Harry Groves, renowned Penn State coach</div>"
 car[46]="Beginners tip: Make running a habit, even if that means getting out for a few minutes per day.";
 car[47]="Sometimes the best runs come on days you didn’t feel like running.";
-car[48]="";
+car[48]="\"The idea that you can’t lose contact with the leaders has cut more throats than it has saved.\"<br><br><div class=\"SigText\">- Arthur Lydiard</div>";
 car[49]="Beginners tip: Do a little bit of strength training. Spending just 10 to 15 minutes doing bodyweight workouts in your living room a few times per week will strengthen your core and lower body, which will make running easier and minimize risk of injury.";
 car[50]="\"You ran to eat and to avoid being eaten; you ran to find a mate and impress her, and with her you ran off to start a new life together. You had to love running or you wouldn’t live to love anything else.\"<br><br><div class=\"SigText\">- Christopher McDougall, Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen</div>";
 car[51]="Reasons to run: Expensive equipment isn’t required.";
-car[52]="If one can stick to training throughout many long years, then willpower is no longer a problem. It’s raining? That doesn’t matter. I’m tired? That’s beside the point. It’s simply that I have to.\"<br><br><div class=\"SigText\">- Emil Zatopek</div>";
+car[52]="\"If one can stick to training throughout many long years, then willpower is no longer a problem. It’s raining? That doesn’t matter. I’m tired? That’s beside the point. It’s simply that I have to.\"<br><br><div class=\"SigText\">- Emil Zatopek</div>";
 car[53]="Joke Quote:<br><br>\"I’m not sure what just happened but... I just signed up for another race.\"";
 car[54]="\"Sometimes, when I walk out onto the track I think, ‘What am I doing here? Why do I put myself through this?’ But that’s when you really get into your focus ... you focus on the race you are going to run.\"<br><br><div class=\"SigText\">- Kelly Holmes</div>";
-car[55]="My thoughts before a big race are usually pretty simple. I tell myself: ‘Get out of the blocks, run your race, stay relaxed. If you run your race, you’ll win... Channel your energy.\"<br><br><div class=\"SigText\">- Carl Lewis</div>";
+car[55]="\"My thoughts before a big race are usually pretty simple. I tell myself: ‘Get out of the blocks, run your race, stay relaxed. If you run your race, you’ll win... channel your energy.\"<br><br><div class=\"SigText\">- Carl Lewis</div>";
 car[56]="\"The runner is coming to know, or will know if he runs enough... that the universe is the smallest divisible unit.\"<br><br><div class=\"SigText\">- George Sheehan</div>";
 car[57]="\"Build up your mileage in gradual increments, but every third or fourth week, drop back in mileage to recover. This will help you avoid your breaking point.\"<br><br><div class=\"SigText\">- Lee Fidler, coach and two-time U.S. Olympic Marathon qualifier</div>";
 car[58]="\"In training, don’t be afraid to be an oddball, eccentric, or extremist. Only by daring to go against tradition can new ways of training be learned. The trick is recognizing quickly when a new approach is counterproductive.\"<br><br><div class=\"SigText\">- Benji Durden, 1980 U.S. Olympic marathoner</div>";
@@ -110,11 +110,11 @@ car[60]="Reasons to run: It lifts your mood.";
 car[61]="Joke:<br><br>Q: Did you hear about the marathon runner who ran for three hours but only moved two feet?<br><br>A: (He only had two feet)";
 car[62]="\"Fartlek training can help you build strength and endurance, learn race pace, and practice race tactics all in a single workout.\"<br><br><div class=\"SigText\">- Bill Dellinger, former University of Oregon coach and 1964 Olympic 5000 bronze medal winner</div>";
 car[63]="You gotta be a beast... even if you are tired.";
-car[64]="\"My whole teaching in one sentence is: “Run slowly, run daily, drink moderately, and don’t eat like a pig.\"<br><br><div class=\"SigText\">- Dr. Ernst van Aaken, renowned German coach</div>";
+car[64]="\"My whole teaching in one sentence is: \"Run slowly, run daily, drink moderately, and don’t eat like a pig.\"<br><br><div class=\"SigText\">- Dr. Ernst van Aaken, renowned German coach</div>";
 car[65]="Physical strength will get you to the start line. But mental strength will get you to the finish line.";
 car[66]="Joke quote:<br><br>\"Do people running at 6am know about not running at 6am?\"";
 car[67]="\"Overly aggressive stretching can actually increase your injury risk.\"<br><br><div class=\"SigText\">- Dr. Ernst van Aaken, renowned German coach</div>";
-car[68]="\"You bet your ass I’ll be singing Another One Bites The Dust when I pass other runners on the road or in a race.\"";
+car[68]="\"You bet your ass I’ll be singing 'Another One Bites The Dust' when I pass other runners on the road or in a race.\"";
 car[69]="\"Buy all shoes, both street and running, slightly longer and wider than your bigger foot. Also, avoid pointed shoes. You’ll save yourself needless foot pain.\"<br><br><div class=\"SigText\">- Ted Corbitt</div>";
 car[70]="Beginners tip: Keep a training log. Keeping a journal could become your best tool for success.";
 car[71]="\"Running 8 to 15 miles per week significantly increases your aerobic capacity, and positively effects many of the coronary risk factors.\"<br><br><div class=\"SigText\">- Dr. Kenneth Cooper, aerobics pioneer</div>";
@@ -127,7 +127,7 @@ car[77]="\"If you don’t have answers to your problems after a 4 hour run, you 
 car[78]="If you have done a strenuous run, have a high protein recovery meal which will help to effectively rebuild your muscles.";
 car[79]="\"When I first started running, it was easy. I was young and healthy. Then I quit and had to start again years later when I was neither strong nor healthy. But once my feet hit the pavement, my body took over and every step was a victory.\"<br><br><div class=\"SigText\">- Toni Sorenson</div>";
 car[80]="\"The freedom of Cross Country is so primitive. It’s woman vs. nature.\"<br><br><div class=\"SigText\">- Lynn Jennings</div>";
-car[81]="Joke Quote:<br><br>\"Any idiot can run but it takes a special kind of idiot to run a half marathon.\"";
+car[81]="Joke quote:<br><br>\"Any idiot can run but it takes a special kind of idiot to run a half marathon.\"";
 car[82]="\"If you’re laboring up a steep hill, imagine that a towrope is attached to the center of your chest, pulling you steadily toward the top.\"<br><br><div class=\"SigText\">- Jeff Galloway</div>";
 car[83]="\"Their hearts, lost in thought, slowly tick away time. When we pass each other on the road, we listen to the rhythm of each other’s breathing, and sense the way the other person is ticking away the moments.\"<br><br><div class=\"SigText\">- Haruki Murakami, What I Talk About When I Talk About Running</div>";
 car[84]="Drink at least 8 oz. of water before heading out to prevent dehydration. If you are going longer than 10k, you might consider taking a water bottle or planning a route that has a water stop along the way. Staying hydrated will stop your legs from cramping.";
@@ -144,7 +144,7 @@ car[94]="\"Friedrich Nietzsche got pretty hung up on the notion of human will; r
 car[95]="\"In running I go by the axiom that my coach Jumbo Elliott of Villanova used: KISS-Keep It Simple, Stupid.\"<br><br><div class=\"SigText\">- Marty Liquori</div>";
 car[96]="One run can change your day, many runs can change your life.";
 car[97]="\"Our running shoes are really erasers. Every step erases some past failure. Every mile brings us closer to a clean slate. Each foot strike rubs away a word, a look, or an event which led us to believe that success was beyond our grasp.\"<br><br><div class=\"SigText\">- John \"The Penguin\" Bingham</div>";
-car[98]="Tough runs don’t last. Tough runs do.";
+car[98]="Tough runs don’t last. Tough runners do.";
 car[99]="\"People talk about the joy of running - of the endorphins and reaching a Zen-like clarity of mind. This had never happened to me. Mostly, all I thought about when I ran was how much further I had to go before I could stop.\"<br><br><div class=\"SigText\">- Laura Morrigan, Horse of a Different Killer</div>";
 car[100]="The race always hurts. Expect it to hurt. You don't train so it doesn’t hurt. You train so you can tolerate it!";
 car[101]="Run like there’s a hot guy infront of you and a creepy guy behind you.";
@@ -189,15 +189,15 @@ car[139]="When you still haven’t pooped before a race!";
 car[140]="\"Run when you can, walk if you have to, crawl if you must; just never give up.\"<br><br><div class=\"SigText\">- Dean Karnazes</div>";
 car[141]="Reasons to run: It revs metabolism even while you aren’t doing it.";
 car[142]="\"I saw him run for the first time at Wednesday’s training session. Until then, I wasn’t aware Usain Bolt was my running coach\"<br><br><div class=\"SigText\">- Miranda Kenneally, Breathe, Annie, Breathe</div>";
-car[143]="\"I double-knot my shoe laces. It’s a pain untying your shoes afterward-particularly if you get them wet-but so is stopping in the middle of a race to tie them.\"<br><br><div class=\"SigText\">- Hal Higdon</div>";
-car[144]="\"At most, jog easily for 15 minutes before a race. Then stretch your hamstrings, quadriceps, calves, and lower back. With about 15 minutes to go, maybe do a few strides. But no more-you’ll warm up plenty in the early going.\"<br><br><div class=\"SigText\">- Mark Plaatjes, 1993 World Championships marathon winner</div>";
+car[143]="\"I double knot my shoe laces. It’s a pain untying your shoes afterward, particularly if you get them wet, but so is stopping in the middle of a race to tie them.\"<br><br><div class=\"SigText\">- Hal Higdon</div>";
+car[144]="\"At most, jog easily for 15 minutes before a race. Then stretch your hamstrings, quadriceps, calves, and lower back. With about 15 minutes to go, maybe do a few strides. But no more - you’ll warm up plenty in the early going.\"<br><br><div class=\"SigText\">- Mark Plaatjes, 1993 World Championships marathon winner</div>";
 car[145]="Don’t quit. You’re already in pain. You’re already hurt. Get a reward from it.";
 car[146]="\"Pick one thing each year that you need to improve, and work on that. It might be improving your diet, getting more sleep, or increasing your mileage. You can’t work on everything at once.\"<br><br><div class=\"SigText\">- Bob Kennedy</div>";
 car[147]="\"For me, running is a lifestyle and an art. I’m far more interested in the magic of it than the mechanics.\"<br><br><div class=\"SigText\">- Lorraine Moller</div>";
 car[148]="Sometimes all you need is a good run.";
 car[149]="\"Kill them with success and bury them with a smile.\"<br><br><div class=\"SigText\">- Usain Bolt</div>";
 car[150]="Slow runners make fast runners look good... YOU’RE WELCOME! :)";
-car[151]="Joke quote:<br><br>My running form could be described as \"drunk woman slowly being chased by no one\"";
+car[151]="Joke quote:<br><br>\"My running form could be described as \"drunk woman slowly being chased by no one\"";
 car[152]="\"If your morning pulse rate is up 10 or more beats above your average, then you haven’t recovered from the previous day’s training. Take time off or back off until it returns to normal.\"<br><br><div class=\"SigText\">- Dr. George Sheehan</div>";
 car[153]="\"If you only ran when you felt like running, you wouldn’t make it very far.\"<br><br><div class=\"SigText\">- Toni Sorenson</div>";
 car[154]="\"Think chest / hips / push, or CHP, when it’s time for uphill running. Chest up, hips forward, push strongly off each foot.\"<br><br><div class=\"SigText\">- Jeff Galloway</div>";
@@ -218,7 +218,7 @@ car[168]="Don’t give up because you had a bad run. Forgive yourself and do bet
 car[169]="Joke quote:<br><br>I run because \"OMG you look amazing!\" never gets old.";
 car[170]="Joke quote:<br><br>\"What the f**k are we doing\" - my legs during recreational jogging.";
 car[171]="\"Fitness has to be fun. If it isn’t, there will be no fitness. Play is the process. Fitness is merely the product.\"<br><br><div class=\"SigText\">- Dr. George Sheehan</div>";
-car[172]="\"If I am still standing at the end of the race, hit me with a board and knock me down, because that means I didn’t run hard enough\"<br><br><div class=\"SigText\">- Steve Jones</div>";
+car[172]="\"If I am still standing at the end of the race, hit me with a board and knock me down, because that means I didn’t run hard enough.\"<br><br><div class=\"SigText\">- Steve Jones</div>";
 car[173]="Joke quote:<br><br>I hate when I’m running on the treadmill for half an hour and look down to see it’s been 4 minutes.";
 car[174]="Beginners tip: Mix in cross training to supplement your running, such as cycling or a gym class.";
 car[175]="\"To be effective over the last 6 miles of a marathon, one must harbor some sort of emotional as well as physical reserves.\"<br><br><div class=\"SigText\">- Kenny Moore, writer and two-time U.S. Olympic marathoner</div>";
@@ -230,7 +230,7 @@ car[180]="\"All I do is keep on running in my own cozy, homemade void, my own no
 car[181]="\"When you try a new type of training, think like a beginner. Just because you can run 20 miles every Sunday doesn’t mean you can survive 10 x 400 meters on the track at a fast pace.\"<br><br><div class=\"SigText\">- Jack Daniels, Ph.D.</div>";
 car[182]="\"Beginners tip: Set small, achievable goals. Break down your aspirations into daily, weekly, and monthly goals.\"<br><br><div class=\"SigText\">- Usain Bolt</div>";
 car[183]="\"There is something magical about running; after a certain distance, it transcends the body. Then a bit further, it transcends the mind. A bit further yet, and what you have before you, laid bare, is the soul.\"<br><br><div class=\"SigText\">- Kristin Armstrong</div>";
-car[184]="\"Runners don’t quit. We fade; we “hit the wall”; we’re sometimes reduced to a walk. But we keep on.\"<br><br><div class=\"SigText\">- Amby Burfoot</div>";
+car[184]="\"Runners don’t quit. We fade; we \"hit the wall\"; we’re sometimes reduced to a walk. But we keep on.\"<br><br><div class=\"SigText\">- Amby Burfoot</div>";
 car[185]="\"The advantage of running ‘hills’ on a treadmill is you can go up without pounding down the other side.\"<br><br><div class=\"SigText\">- Ken Sparks, Ph.D.</div>";
 car[186]="Running is like coffee... much nicer when I’ve had one.";
 car[187]="\"Passing competitors always gives you a lift. It probably has a physical effect, too, because you get a surge of adrenaline.\"<br><br><div class=\"SigText\">- Libbie Hickman, world-class marathoner</div>";
@@ -255,7 +255,7 @@ car[205]="\"Brainstorm your training goals first, then write them down. Do this 
 car[206]="\I could feel my anger dissipating as the miles went by - you can’t run and stay mad!\"<br><br><div class=\"SigText\">- Kathrine Switzer, Marathon Woman: Running the Race to Revolutionize Women’s Sports</div>";
 car[207]="\"When you run through life, life runs through you\"<br><br><div class=\"SigText\">- Toni Sorenson</div>";
 car[208]="\"Running cleared the day’s cobwebs from my mind and focused my thinking, and gave me time and space to sort out anything that was bothering me, or to detach and think of nothing at all.\"<br><br><div class=\"SigText\">- Jeff Horowitz, My First 100 Marathons: 2,260 Miles with an Obsessive Runner</div>";
-car[209]="\"Whether one shall run on his heels or his toes is hardly worth discussing. The main thing in distance running is endurance-and how to get it.\"<br><br><div class=\"SigText\">- Clarence DeMar, seven-time Boston Marathon champion and U.S. Olympic marathoner";
+car[209]="\"Whether one shall run on his heels or his toes is hardly worth discussing. The main thing in distance running is endurance - and how to get it.\"<br><br><div class=\"SigText\">- Clarence DeMar, seven-time Boston Marathon champion and U.S. Olympic marathoner";
 car[210]="Not training to be skinny... training to be badass!";
 car[211]="Beginners tip: Join a running group. Though you should do some solo runs, there are many benefits to running with a group.";
 car[212]="Excuses don’t burn calories.";
@@ -268,7 +268,7 @@ car[218]="\"Your body is always trying to tell you where you are. Beware when yo
 car[219]="Running in the rain... exercise, therapy, and a shower at the same time.";
 car[220]="Joke:<br><br>Q: How do you know your a dedicated runner?<br><br>A: When your treadmill has more miles on it than your car.";
 car[221]="Runderful (adjective): How you feel the minute after you finish your run.";
-car[222]="\"So-called ‘junk miles’-those slow miles done on easy days or during warmups-do count. They burn calories as effectively as fast miles; it just takes longer. Regardless of pace, each mile you run burns about 100 calories.\"<br><br><div class=\"SigText\">- Hal Higdon</div>";
+car[222]="\"So-called ‘junk miles’ - those slow miles done on easy days or during warmups do count. They burn calories as effectively as fast miles; it just takes longer. Regardless of pace, each mile you run burns about 100 calories.\"<br><br><div class=\"SigText\">- Hal Higdon</div>";
 car[223]="\"Those runners who hit their second wind know find something most of the world never discovers.\"<br><br><div class=\"SigText\">- Toni Sorenson</div>";
 car[224]="Track the mileage in your shoes. At about 300 miles, mid-soles can become too compressed to return to their original shape between runs, and your feet and legs will begin to notice. Be sure to replace shoes regularly.";
 car[225]="\"Before you do your long run, place containers of sports drink out on your course, even if you have to bury them.\"<br><br><div class=\"SigText\">- Runner’s World editors</div>";
@@ -287,10 +287,10 @@ car[237]="Focus on your goal, don’t look in any direction but ahead.";
 car[238]="\"Try some light jogging or walking before you stretch, or stretch after you run. Stretching ‘cold’ muscles can cause more harm than good.\"<br><br><div class=\"SigText\">- Runner’s World editors</div>";
 car[239]="Joke:<br><br>I’m thinking of running a marathon. Well, I’m thinking of TRAINING for a marathon. Okay, I just want to carboload.";
 car[240]="\"Vary your training, your running partners, and your environment. Only your imagination limits the ways you can spice up your running routine.\"<br><br><div class=\"SigText\">- Bob Glover</div>";
-car[241]="\"Running is the greatest metaphor for life, because you get out of it what you put into it.\"<br><br><div class=\"SigText\">- Bob Glover</div>";
+car[241]="\"Vary your training, your running partners, and your environment. Only your imagination limits the ways you can spice up your running routine.\"<br><br><div class=\"SigText\">- Bob Glover</div>";
 car[242]="\"Running is the greatest metaphor for life, because you get out of it what you put into it.\"<br><br><div class=\"SigText\">- Oprah Winfrey</div>";
-car[243]="Joke quote:<br><br>\"That awkward moment running near a friends house when you want to text them “hey, can I poop in your bathroom real quick?\".\"";
-car[244]="\"How to run an ultramarathon ? Puff out your chest, put one foot in front of the other, and don’t stop till you cross the finish line.\"<br><br><div class=\"SigText\">- Dean Karnazes, Ultramarathon Man: Confessions of an All-Night Runner</div>";
+car[243]="Joke quote:<br><br>\"That awkward moment running near a friends house when you want to text them 'hey, can I poop in your bathroom real quick?'\"";
+car[244]="\"How to run an ultramarathon? Puff out your chest, put one foot in front of the other, and don’t stop till you cross the finish line.\"<br><br><div class=\"SigText\">- Dean Karnazes, Ultramarathon Man: Confessions of an All-Night Runner</div>";
 car[245]="\"We run when we’re scared, we run when we’re ecstatic, we run away from our problems and run around for a good time.\"<br><br><div class=\"SigText\">- Christopher McDougall, Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen</div>";
 car[246]="\"Running is a simple activity. Just lace up your shoes and go, one step at a time, like each breath.\"<br><br><div class=\"SigText\">- Adharanand Finn, Running with the Kenyans: Passion, Adventure, and the Secrets of the Fastest People on Earth</div>";
 car[247]="\"The difference between the impossible and the possible lies in determination.\"<br><br><div class=\"SigText\">- Usain Bolt</div>";
@@ -299,13 +299,13 @@ car[249]="Rungry: When you are so hungry from your long run that you must eat ev
 car[250]="\"In marathon training, 3 hours slow is better than 2 hours fast.\"<br><br><div class=\"SigText\">- Pete Gavuzzi, coach of four-time Boston Marathon champ Gerard Cote</div>";
 car[251]="Beginners tip: Don’t even worry about pace or mileage. Just focus on consistency. You’ll soon notice how much easier it will start to feel once you’ve been doing it regularly for a few weeks.";
 car[252]="Sometimes... all you need is a good run.";
-car[253]="\"If you run 30 miles a week, then about 7 of those-or approximately one-quarter-should be quality miles. Quality miles will boost your aerobic capacity.\"<br><br><div class=\"SigText\">- Owen Anderson, Ph.D., running writer</div>";
+car[253]="\"If you run 30 miles a week, then about 7 of those - or approximately one quarter should be quality miles. Quality miles will boost your aerobic capacity.\"<br><br><div class=\"SigText\">- Owen Anderson, Ph.D., running writer</div>";
 car[254]="\"Pain is inevitable. Suffering is optional.\"<br><br><div class=\"SigText\">- Haruki Murakami</div>";
 car[255]="Rise and run.";
 car[256]="Beginners tip: Don’t dread taking walk breaks. In fact, slowing down can actually build strength and endurance to benefit your running.";
 car[257]="\"I work hard, and I do good, and I’m going to enjoy myself. I’m not going to let you restrict me.\"<br><br><div class=\"SigText\">- Usain Bolt</div>";
 car[258]="\"The marathon will humble you. But the truth is, sometimes it will do more than humble you. Sometimes it will break your heart.\"<br><br><div class=\"SigText\">- Bill Rodgers, Marathon Man: My 26.2-Mile Journey from Unknown Grad Student to the Top of the Running World</div>";
-car[259]="\"There are no standards and no possible victories except the joy you are living while dancing your run. You are not running for some future reward-the real reward is now!\"<br><br><div class=\"SigText\">- Fred Rohe, The Zen of Running</div>";
+car[259]="\"There are no standards and no possible victories except the joy you are living while dancing your run. You are not running for some future reward - the real reward is now!\"<br><br><div class=\"SigText\">- Fred Rohe, The Zen of Running</div>";
 car[260]="Joke:<br><br>Me: Can’t go running with you, all my workout clothes are dirty.<br><br>Friend: Oh nice, been exercising?<br><br>Me: No, pasta sauce.";
 car[261]="\"When running, let your jaw hang loose, don’t bunch up your shoulders close to your ears, and occasionally shake out your hands and arms to stay relaxed.\"<br><br><div class=\"SigText\">- Dave Martin, Ph.D., exercise physiologist</div>";
 car[262]="\"Energy bars are good portable food for runners. Look for bars with 4 grams of fat or fewer per 230 calories. Fat slows down digestion.\"<br><br><div class=\"SigText\">- Liz Applegate, Ph.D., sports nutritionist</div>";
@@ -314,11 +314,11 @@ car[264]="\"Success breeds success on a marathon route. If you can prove to your
 car[265]="\"Never run more than 3 hours straight in training, whether your marathon best is 2:42 or 4:24.\"<br><br><div class=\"SigText\">- Ed Eyestone</div>";
 car[266]="If you are a runner. It doesn’t matter how fast or how far. It doesn’t matter if today is your first day or if you’ve been running for twenty years. There is no test to pass, no license to earn, no membership card to get. YOU JUST RUN.";
 car[267]="\"This is your first marathon. Possibly, you’ll want it to be your last. Focus on future races draws energy from the one in front of you. Like the mileage that comprises them, train for marathons one at a time.\"<br><br><div class=\"SigText\">- Gina Greenlee, The Whole Person Guide to Your First Marathon: A Mind Body Spirit Companion</div>";
-car[268]="\"There are many challenges to long distance running, but one of the greatest is the question of where to put on’s house keys.\"<br><br><div class=\"SigText\">- Gabrielle Zevin, The Storied Life of A.J. Fikry</div>";
+car[268]="\"There are many challenges to long distance running, but one of the greatest is the question of where to put one’s house keys.\"<br><br><div class=\"SigText\">- Gabrielle Zevin, The Storied Life of A.J. Fikry</div>";
 car[269]="\"I’ll be happy if running and I can grow old together.\"<br><br><div class=\"SigText\">- Haruki Murakami, What I Talk About When I Talk About Running</div>";
 car[270]="\"Running is a lot like life. Only 10 percent of it is exciting. 90 percent of it is slog and drudge.\"<br><br><div class=\"SigText\">- David Bedford</div>";
 car[272]="No pain no champagne.";
-car[273]="\"You don’t run,’ he corrected me. ‘But you’re more than able.’ There was no shadow of doubt in his voice. Hearing it from someone else made me realize: there was nothing stopping me from running but me.\"<br><br><div class=\"SigText\">- Alexandra Heminsley, Running Like a Girl</div>";
+car[273]="\"'You don’t run,’ he corrected me. ‘But you’re more than able.’ There was no shadow of doubt in his voice. Hearing it from someone else made me realize: there was nothing stopping me from running but me.\"<br><br><div class=\"SigText\">- Alexandra Heminsley, Running Like a Girl</div>";
 car[274]="Every one of your dreams is patiently sitting right outside of your comfort zone.";
 car[275]="Not everyone will understand you are up before the sun or out running in the cold. That’s OK, you’re here to live your life, not to make everyone understand.";
 car[276]="\"Three half-mile repeats on the track at 5k race pace with a short recovery jog in between shouldn’t scare anyone away - and it will improve your speed.\"<br><br><div class=\"SigText\">- Frank Shorter</div>";
@@ -345,7 +345,7 @@ car[297]="The truth is you can always run faster, but sometimes the truth hurts.
 car[298]="The act of getting strong doesn’t start in a gym, it starts in your head.";
 car[299]="\"Some sessions are stars and some sessions are stones, but in the end they are all rocks and we build upon them.\"<br><br><div class=\"SigText\">- Chrissie Wellington, A Life Without Limits: A World Champion’s Journey</div>";
 car[300]="Stop asking what I’m doing this weekend. Running. I’m running this weekend, next weekend, forever.";
-car[301]="\"Occasionally pick up speed for 2 minutes, tops-then settle back into your former pace. Sometimes this is all you need to snap out of a mental and physical funk. Pick a downhill stretch if you can, and really lengthen your stride.\"<br><br><div class=\"SigText\">- Mark Plaatjes</div>";
+car[301]="\"Occasionally pick up speed for 2 minutes tops, then settle back into your former pace. Sometimes this is all you need to snap out of a mental and physical funk. Pick a downhill stretch if you can, and really lengthen your stride.\"<br><br><div class=\"SigText\">- Mark Plaatjes</div>";
 car[302]="Your only limit is you.";
 car[303]="\"But anybody who steps into the lane beside you is the biggest competition because they made it to the finals.\"<br><br><div class=\"SigText\">- Usain Bolt</div>";
 car[304]="\"I don’t wear a watch during my long runs. That way I’m not tempted to compare my time from week to week.\"<br><br><div class=\"SigText\">- Lynn Jennings, three-time World Cross-Country champion</div>";
@@ -366,7 +366,7 @@ car[319]="Sweat is just fat crying.";
 car[320]="Joke quote:<br><br>\"Woke up in running clothes. really admire drunk me and her ambitions.\"";
 car[322]="\"Keep working on mental attitude. You have to fight that supposedly rational voice that says: ‘I’m 50 years old, and I don’t have to be doing this anymore.’\"<br><br><div class=\"SigText\">- Ken Sparks, Ph.D.</div>";
 car[323]="\"Day to day consistency is more important than big mileage. Then you’re never shot the next day.\"<br><br><div class=\"SigText\">- John Campbell, former masters running star from New Zealand</div>";
-car[324]="\"The biggest mistake that new runners make is that they tend to think in mile increments-1 mile, 2 miles, 3 miles. Beginning runners need to think in minutes, not miles.\"<br><br><div class=\"SigText\">- Budd Coates</div>";
+car[324]="\"The biggest mistake that new runners make is that they tend to think in mile increments - 1 mile, 2 miles, 3 miles. Beginning runners need to think in minutes, not miles.\"<br><br><div class=\"SigText\">- Budd Coates</div>";
 car[325]="Don’t let success go to your head and failure go to your heart.";
 car[326]="\"What I’ve learned from running is that the time to push hard is when you’re hurting like crazy and you want to give up. Success is often just around the corner.\"<br><br><div class=\"SigText\">- James Dyson</div>";
 car[327]="\"Don’t clench your fists in a white-knuckle grip. Instead, run with a cupped hand, thumbs resting on the fingers, as if you were protecting an egg in each palm.\"<br><br><div class=\"SigText\">- Runner’s World editors</div>";
@@ -378,7 +378,7 @@ car[332]="\"Running, the music flew into him, became the wind that pushed back h
 car[333]="\"Your body will argue that there is no justifiable reason to continue. Your only recourse is to call on your spirit, which fortunately functions independently of logic.\"<br><br><div class=\"SigText\">- Tim Noakes, Lore of Running</div>";
 car[334]="Beginners tip: Think of days off as part of your training. To get stronger and fitter and become a better runner, you need to recover from your workouts so you can get back out there and crush it again tomorrow or the next day.";
 car[335]="Breathe it in. Run it out.";
-car[336]="Joke quote:<br><br>I run because it’s good for me. Also, because I like to eat and drink A LOT!<br>";
+car[336]="Joke quote:<br><br>\"I run because it’s good for me. Also, because I like to eat and drink A LOT!\"";
 car[337]="\"I was pushed by myself because I have my own rule, and that is that every day I run faster, and try harder.\"<br><br><div class=\"SigText\"> - Wilson Kipketer after being asked is the $50,000 prize on offer tempted him to break the world record.</div>";
 car[338]="\"I often hear someone say I’m not a real runner. We are all runners, some just run faster than others. I never met a fake runner.\"<br><br><div class=\"SigText\">- Bart Yasso</div>";
 car[339]="\"As every runner knows, running is about more than just putting one foot in front of the other; it is about our lifestyle and who we are.\"<br><br><div class=\"SigText\">- Joan Benoit Samuelson</div>";
@@ -405,7 +405,7 @@ car[359]="\"I never go into a race expecting to win, but I do go in expecting to
 car[360]="\"Running is a big question mark that’s there each and every day. It asks you, 'Are you going to be a wimp or are you going to be strong today?'\"<br><br><div class=\"SigText\">- Peter Maher</div>";
 car[361]="\"For every runner who tours the world running marathons, there are thousands who run to hear the leaves and listen to the rain, and look to the day when it is suddenly as easy as a bird in flight.\"<br><br><div class=\"SigText\">- George Sheehan</div>";
 car[362]="\"Running is a brutal and emotional sport. It’s also a simple, primal sport. As humans, on a most basic level, we get hungry, we sleep, we yearn for love, we run.\"<br><br><div class=\"SigText\">- Adharanand Finn, Running with the Kenyans: Passion, Adventure, and the Secrets of the Fastest People on Earth</div>";
-car[363]="\"“Believe that you can run farther or faster. Believe that you’re young enough, old enough, strong enough, and so on to accomplish everything you want to do. Don’t let worn-out beliefs stop you from moving beyond yourself.\"<br><br><div class=\"SigText\">- John Bingham</div>";
+car[363]="\"Believe that you can run farther or faster. Believe that you’re young enough, old enough, strong enough, and so on to accomplish everything you want to do. Don’t let worn out beliefs stop you from moving beyond yourself.\"<br><br><div class=\"SigText\">- John Bingham</div>";
 car[364]="\"Today, I run for pure, absolute joy.\"<br><br><div class=\"SigText\">- Lopez Lomong</div>";
 car[365]="\"...be as fast as Usain Bolt, the winner is the winner, even if he crawls like a crab, his destiny is unshakable.\"<br><br><div class=\"SigText\">- Michael Bassey Johnson</div>";
 car[366]="\"So they went running together, silent, toward the vast wastes of snow where no living thing but they two moved under the stars of night.\"<br><br><div class=\"SigText\">- Clemence Housman, The Were-Wolf</div>";
