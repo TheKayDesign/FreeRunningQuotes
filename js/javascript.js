@@ -317,6 +317,7 @@ car[267]="\"This is your first marathon. Possibly, you’ll want it to be your l
 car[268]="\"There are many challenges to long distance running, but one of the greatest is the question of where to put one’s house keys.\"<br><br><div class=\"SigText\">- Gabrielle Zevin, The Storied Life of A.J. Fikry</div>";
 car[269]="\"I’ll be happy if running and I can grow old together.\"<br><br><div class=\"SigText\">- Haruki Murakami, What I Talk About When I Talk About Running</div>";
 car[270]="\"Running is a lot like life. Only 10 percent of it is exciting. 90 percent of it is slog and drudge.\"<br><br><div class=\"SigText\">- David Bedford</div>";
+car[271]="\"I think it's one of the most natural things for any human to do is to be able to run because it's that flight or fight reaction you have. You either fight or you run away. It's just a natural way for us to move.\"<br><br><div class=\"SigText\">- Zola Budd</div>";
 car[272]="No pain no champagne.";
 car[273]="\"'You don’t run,’ he corrected me. ‘But you’re more than able.’ There was no shadow of doubt in his voice. Hearing it from someone else made me realize: there was nothing stopping me from running but me.\"<br><br><div class=\"SigText\">- Alexandra Heminsley, Running Like a Girl</div>";
 car[274]="Every one of your dreams is patiently sitting right outside of your comfort zone.";
@@ -327,6 +328,7 @@ car[278]="I’ve got 99 problems but I’m going running to ignore them all for 
 car[279]="Do something today that you will be proud of tomorrow.";
 car[280]="Joke:<br><br>Q: What do you get when you run behind a car?<br><br>A: Exhausted.";
 car[281]="I run because I can. When I get tired, I remember those who can’t run, what they would give to have this simple gift I take for granted, and I run harder for them. I know they would do the same for me.";
+car[282]="\"Coming from a farming background, I saw nothing out of the ordinary in running barefoot, although it seemed to startle the rest of the athletics world. I have always enjoyed going barefoot and when I was growing up I seldom wore shoes, even when I went into town.\"<br><br><div class=\"SigText\">- Zola Budd</div>";
 car[283]="\The essential thing is to run, period! And to do it for a long time and consistently and then everything will take care of itself.\"<br><br><div class=\"SigText\">- Bernd Heinrich</div>";
 car[284]="\"If you can’t run fast, run slow. If you can’t run slow, walk. If you can’t walk, crawl. All that matters is that you don’t stop moving.\"<br><br><div class=\"SigText\">- Toni Sorenson</div>";
 car[285]="You will want to stop... DON’T!";
@@ -353,6 +355,7 @@ car[305]="Joke:<br><br>How can you tell is someone ran a marathon?<br><br>Don’
 car[306]="\"Not all races are run on a track. And not all finish lines are marked by ticker tape.\"<br><br><div class=\"SigText\">- Toni Sorenson</div>";
 car[307]="\"Running is about finding your inner peace, and so is a life well lived.\"<br><br><div class=\"SigText\">- Dean Karnazes</div>";
 car[308]="\"Quality counts, if you want to stay fast. Don’t do all your workouts in the comfort zone.\"<br><br><div class=\"SigText\">- Ken Sparks, Ph.D.</div>";
+car[309]="\"She hasn't run faster than herself before.\"<br><br><div class=\"SigText\">- Zola Budd</div>";
 car[310]="\"Any idiot can train himself into the ground; the trick is doing the training that makes you gradually stronger.\"<br><br><div class=\"SigText\">- Keith Brantly, U.S. Olympic marathoner</div>";
 car[311]="\"We are different, in essence, from other men. If you want to win something, run 100 meters. If you want to experience something, run a marathon.\"<br><br><div class=\"SigText\">- Emil Zatopek</div>";
 car[312]="\"There is something magical about running; after a certain distance, it transcends the body. Then a bit further, it transcends the mind. A bit further yet, and what you have before you, laid bare, is the soul.\"<br><br><div class=\"SigText\">- Kristin Armstrong</div>";
@@ -364,6 +367,7 @@ car[317]="Running is not about being someone else, it’s about being better tha
 car[318]="Reasons to run: It’s a top calorie burning exercise.";
 car[319]="Sweat is just fat crying.";
 car[320]="Joke quote:<br><br>\"Woke up in running clothes. really admire drunk me and her ambitions.\"";
+car[321]="\"I found them uncomfortable and after that I decided to continue running barefoot because I found it more comfortable. I felt more in touch with what was happening - I could actually feel the track.\"<br><br><div class=\"SigText\">- Zola Budd</div>";
 car[322]="\"Keep working on mental attitude. You have to fight that supposedly rational voice that says: ‘I’m 50 years old, and I don’t have to be doing this anymore.’\"<br><br><div class=\"SigText\">- Ken Sparks, Ph.D.</div>";
 car[323]="\"Day to day consistency is more important than big mileage. Then you’re never shot the next day.\"<br><br><div class=\"SigText\">- John Campbell, former masters running star from New Zealand</div>";
 car[324]="\"The biggest mistake that new runners make is that they tend to think in mile increments - 1 mile, 2 miles, 3 miles. Beginning runners need to think in minutes, not miles.\"<br><br><div class=\"SigText\">- Budd Coates</div>";
