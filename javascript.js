@@ -60,7 +60,7 @@ car[10]="\"The true runner is a very fortunate person. He has found something in
 car[11]="\"Children run everywhere for a reason - it’s fun. Grown-ups can forget that sometimes.\"<br><br><div class=\"SigText\">- Jim Butcher, Dead Beat</div>";
 car[12]="Repair your muscles: Eat 20g of protein soon after a run to kick start muscle repair.";
 car[13]="\"As your training moves from base training to more intense work, to tapering, your nutrition needs to change.\"<br><br><div class=\"SigText\">- Charlotte Campbell, Triathlon for Women: Everything you need to know to get started and succeed</div>";
-car[14]="\"I make sure I have some really enjoyable training runs, remembering to ‘smell the roses’ along the way. That way I don’t become caught up in the training-is-everything syndrome.\"<div class=\"SigText\">- Sue Stricklin</div>";
+car[14]="\"I make sure I have some really enjoyable training runs, remembering to ‘smell the roses’ along the way. That way I don’t become caught up in the training-is-everything syndrome.\"<br><br><div class=\"SigText\">- Sue Stricklin</div>";
 car[15]="\"People always ask why I do it. I’m wondering why they don’t?\"";
 car[16]="You don’t have to go fast. You just have to go.";
 car[17]="After you finish your run, do a three to five minute cool down run, and then stretch thoroughly.";
